@@ -1,6 +1,9 @@
 UpLearn Engagement vs Chemistry Attainment: Investigating a data driven approach to improving UpLearn engagement
+
 Objectives: To find the best measure of engagement to improve UpLearn outcomes and find the correlation between UpLearn engagement and attainment in A-Level Chemistry.
+
 Dataset: Sourced UpLearn engagement data for Year 12 and 13 Chemistry students & attainment scores for both groups of students in the Autumn (& Y13 Spring Term)
+
 Methodology: 
 Data Cleaning & Preprocessing
 - Removing missing values
